@@ -29,7 +29,7 @@ export default function Login() {
       <div style={{ width: 400, maxWidth: '94vw' }}>
         <div style={{ textAlign: 'center', marginBottom: 32 }}>
           <div style={{ fontSize: 40, marginBottom: 8 }}>⏱</div>
-          <div style={{ fontSize: 22, fontWeight: 600, color: '#e8eaf0' }}>TimetableAI</div>
+          <div style={{ fontSize: 22, fontWeight: 600, color: '#e8eaf0' }}>Timetable</div>
           <div style={{ fontSize: 13, color: '#8892a4', marginTop: 4 }}>Anna University Affiliated College</div>
         </div>
 
